@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=667eea&background=00000000&center=true&vCenter=true&width=600&height=80&lines=🚀+Passionate+Software+Engineer;💻+Full-Stack+Developer" alt="Typing Animation" style="border-radius: 15px; margin: 10px 0;"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vergehen&custom_title=🔥%20Contribution%20Activity&theme=github-compact&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&radius=20" style="border-radius: 20px; margin: 15px 0;" alt="Contribution Graph"/>
-
 <div align="center" style="margin: 20px 0;">
 <img src="https://komarev.com/ghpvc/?username=Vergehen&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views" style="border-radius: 15px; margin: 8px;"/>
 <img src="https://img.shields.io/github/followers/Vergehen?color=764ba2&style=for-the-badge&label=Followers" alt="Followers" style="border-radius: 15px; margin: 8px;"/>
@@ -38,6 +36,10 @@
 <div style="background: rgba(102, 126, 234, 0.1); border-radius: 20px; padding: 20px; border: 2px solid rgba(102, 126, 234, 0.2);">
 <img src="https://github-profile-trophy.vercel.app/?username=Vergehen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" style="border-radius: 10px;"/>
 </div>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vergehen&custom_title=🔥%20Contribution%20Activity&theme=github-compact&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&radius=20" style="border-radius: 20px; margin: 15px 0;" alt="Contribution Graph"/>
 
 </div>
 
