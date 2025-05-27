@@ -41,8 +41,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Vergehen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" style="border-radius: 10px;"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vergehen&custom_title=🔥%20Contribution%20Activity&theme=github-compact&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&radius=20" style="border-radius: 20px; margin: 15px 0;" alt="Contribution Graph"/>
-
 </div>
 
 ## ✨ Про мене
