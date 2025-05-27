@@ -16,6 +16,10 @@
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vergehen&custom_title=🔥%20Contribution%20Activity&theme=github-compact&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&radius=20" style="border-radius: 20px; margin: 15px 0;" alt="Contribution Graph"/>
+
+<br><br>
+
 <table>
 <tr>
 <td width="50%" style="vertical-align: top;">
@@ -30,10 +34,6 @@
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vergehen&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=667eea&dates=8b949e&sideNums=667eea" style="border-radius: 15px;" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vergehen&custom_title=🔥%20Contribution%20Activity&theme=github-compact&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&radius=20" style="border-radius: 20px; margin: 15px 0;" alt="Contribution Graph"/>
 
 <br><br>
 
