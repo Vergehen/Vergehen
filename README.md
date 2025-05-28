@@ -33,10 +33,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vergehen&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=667eea&dates=8b949e&sideNums=667eea" style="border-radius: 15px;" alt="GitHub Streak"/>
-
-<br><br>
-
 <div style="background: rgba(102, 126, 234, 0.1); border-radius: 20px; padding: 20px; border: 2px solid rgba(102, 126, 234, 0.2);">
 <img src="https://github-profile-trophy.vercel.app/?username=Vergehen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" style="border-radius: 10px;"/>
 </div>
